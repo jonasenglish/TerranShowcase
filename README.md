@@ -6,4 +6,5 @@ I created this project to explore how roguelike systems could be modernized by i
 A playable version of the game demo can be found [HERE](https://github.com/jonasenglish/TerranShowcase/releases/tag/Release)
 
 <img width="953" height="758" alt="image" src="https://github.com/user-attachments/assets/cbca2ad2-8113-4e9e-af10-6b0f28c1aada" />
-<img width="953" height="758" alt="image" src="https://github.com/user-attachments/assets/cbca2ad2-8113-4e9e-af10-6b0f28c1aada" />
+<img width="717" height="573" alt="image" src="https://github.com/user-attachments/assets/ff0cfae5-1cd6-437a-adc8-d8d7ea3245d8" />
+
