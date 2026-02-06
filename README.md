@@ -4,3 +4,6 @@ This is a showcase of my Unity skills in the form of a multiplayer, procedurally
 I created this project to explore how roguelike systems could be modernized by including realtime movement and multiplayer features. I still work on this project in my free time and hope to release it as a full game sometime in the future. I intend to add combat mechanics, rpg systems, a system for prefab placement on the map, tools for prefab creation, and more robust systems for NPC AI.
 
 A playable version of the game demo can be found [HERE](https://github.com/jonasenglish/TerranShowcase/releases/tag/Release)
+
+<img width="953" height="758" alt="image" src="https://github.com/user-attachments/assets/cbca2ad2-8113-4e9e-af10-6b0f28c1aada" />
+<img width="953" height="758" alt="image" src="https://github.com/user-attachments/assets/cbca2ad2-8113-4e9e-af10-6b0f28c1aada" />
